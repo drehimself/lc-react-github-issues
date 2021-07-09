@@ -17,6 +17,19 @@ a {
   margin: 32px auto;
 }
 
+nav {
+  background: #24292f;
+  padding: 20px 60px;
+}
+
+nav a {
+  color: white;
+}
+
+nav a:hover {
+  color: lightgray;
+}
+
 .font-bold {
   font-weight: bold;
 }
